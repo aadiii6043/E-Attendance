@@ -16,30 +16,8 @@ Key features include:
 </ul>
 <h1>Software Requirements</h1>
 <ul>
-  <li>Programming Language: Python</li>
-  <li>Deep Learning Frameworks: TensorFlow and Keras</li>
-  <li>Machine Learning Libraries: Scikit-learn</li>
-  <li>Data Visualization Libraries: Matplotlib and Seaborn</li>
+  <li>Programming Language: Python, MySQL</li>
+  <li>Developer Tools: PyCharm</li>
 </ul>
-<hr>
-<h1>Proposed Design</h1>
-<img src="pd.png" alt="Proposed Design" width="500" height="300">
-<hr>
-<h1>Testing and Results</h1>
-<h2>Training vs. Validation Loss</h2>
-<img src="graph1.png" alt="Training vs. Validation Loss" width="500" height="300">
-<h2>Training vs. Validation IoU</h2>
-<img src="graph2.png" alt="Training vs. Validation IoU" width="500" height="300">
-<hr>
-<h3>Output Images</h3>
-
-<div style="display: flex; gap: 20px;">
-  <img src="body_description.png" alt="Original Image" width="500" height="300">
-  <img src="body_description2.png" alt="Masked Image" width="500" height="300">
-</div>
-
-<h3>Original Image vs. Masked Image vs. Predicted Image</h3>
-<img src="classified_image.png" alt="Predicted Image" width="500" height="300">
-
 <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
