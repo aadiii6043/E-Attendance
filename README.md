@@ -6,8 +6,6 @@ Key features include:
 - <strong>Real-time Attendance Tracking:</strong>The system will provide real-time attendance tracking, allowing administrators to access attendance data instantly. This will enable timely intervention for attendance-related issues, such as late arrivals or absences, and facilitate effective management of resources.
 - <strong>Centralized Database:</strong>The system will have a centralized database to store and manage attendance data. This database will be secure, scalable, and capable of handling large volumes of attendance records.
 
-
-The project also explores preprocessing steps, transfer learning, and domain-specific architectures to overcome challenges such as data scarcity and environmental impacts.</h3>
 <hr>
 <h1>Hardware Requirements</h1>
 <ul>
@@ -22,7 +20,6 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
   <li>Deep Learning Frameworks: TensorFlow and Keras</li>
   <li>Machine Learning Libraries: Scikit-learn</li>
   <li>Data Visualization Libraries: Matplotlib and Seaborn</li>
-  <li>Google Colab</li>
 </ul>
 <hr>
 <h1>Proposed Design</h1>
