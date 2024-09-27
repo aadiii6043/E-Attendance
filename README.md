@@ -2,9 +2,10 @@
 <h3> E-attendance refers to an electronic or digital system that tracks and managesattendance. These systems replace traditional methods like paper registers or manual sign-ins with technology that automates attendance recording. E-attendance systems often use biometric scans (fingerprint, face recognition), RFID cards, mobile apps, or web-based platforms to capture attendance in real time.
 
 Key features include:
-- <strong>Disaster Detection:</strong> The model identifies natural disasters like earthquakes, cyclones, and wildfires using satellite and drone imagery. It classifies images into disaster or normal categories, displaying results with associated probabilities.
-- <strong>Techniques and Methods:</strong> Utilizes state-of-the-art deep learning methods, including CNNs and data augmentation, to improve accuracy and robustness.
-- <strong>Applications:</strong> Applicable in remote sensing, urban planning, agriculture, disaster management, environmental monitoring, and military intelligence.
+- <strong>⁠Biometric Identification:</strong>The system will incorporate biometric devices, such as facial recognition scanners or fingerprint readers, to accurately verify the identity of individuals marking their attendance. This will eliminate the possibility of proxy attendance and enhance data integrity.
+- <strong>Real-time Attendance Tracking:</strong>The system will provide real-time attendance tracking, allowing administrators to access attendance data instantly. This will enable timely intervention for attendance-related issues, such as late arrivals or absences, and facilitate effective management of resources.
+- <strong>Centralized Database:</strong>The system will have a centralized database to store and manage attendance data. This database will be secure, scalable, and capable of handling large volumes of attendance records.
+
 
 The project also explores preprocessing steps, transfer learning, and domain-specific architectures to overcome challenges such as data scarcity and environmental impacts.</h3>
 <hr>
