@@ -1,5 +1,5 @@
 <h1><strong>E-Attendance</strong></h1>
-<h3> E-attendance refers to an electronic or digital system that tracks and managesattendance. These systems replace traditional methods like paper registers or manual sign-ins with technology that automates attendance recording. E-attendance systems often use biometric scans (fingerprint, face recognition), RFID cards, mobile apps, or web-based platforms to capture attendance in real time.
+<h3> E-attendance refers to an electronic or digital system that tracks and manages attendance. These systems replace traditional methods like paper registers or manual sign-ins with technology that automates attendance recording. E-attendance systems often use biometric scans (fingerprint, face recognition), ID cards, mobile apps, or web-based platforms to capture attendance in real time.
 
 Key features include:
 - <strong>⁠Biometric Identification:</strong>The system will incorporate biometric devices, such as facial recognition scanners or fingerprint readers, to accurately verify the identity of individuals marking their attendance. This will eliminate the possibility of proxy attendance and enhance data integrity.
