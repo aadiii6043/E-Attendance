@@ -1,23 +1,29 @@
-<h1><strong>E-Attendance</strong></h1>
-<h3> E-attendance refers to an electronic or digital system that tracks and manages attendance. These systems replace traditional methods like paper registers or manual sign-ins with technology that automates attendance recording. E-attendance systems often use biometric scans (fingerprint, face recognition), ID cards, mobile apps, or web-based platforms to capture attendance in real time.
+# 🎯 E-Attendance System | Python - MySQL - OpenCV
 
-Key features include:
-- <strong>⁠Biometric Identification:</strong>The system will incorporate biometric devices, such as facial recognition scanners or fingerprint readers, to accurately verify the identity of individuals marking their attendance. This will eliminate the possibility of proxy attendance and enhance data integrity.
-- <strong>Real-time Attendance Tracking:</strong>The system will provide real-time attendance tracking, allowing administrators to access attendance data instantly. This will enable timely intervention for attendance-related issues, such as late arrivals or absences, and facilitate effective management of resources.
-- <strong>Centralized Database:</strong>The system will have a centralized database to store and manage attendance data. This database will be secure, scalable, and capable of handling large volumes of attendance records.
+## 📌 Project Overview
+This **AI-powered E-Attendance System** uses **Face Recognition** to automate attendance marking. It eliminates **manual roll calls, fingerprint-based systems, and proxy attendance** by leveraging **computer vision and deep learning**. The system ensures **high accuracy, security, and efficiency** while reducing human errors.
 
-<hr>
-<h1>Hardware Requirements</h1>
-<ul>
-  <li>Operating System - Windows, macOS, Linux</li>
-  <li>RAM 12 GB</li>
-  <li>T4 - GPU</li>
-  <li>Processor 64-bit</li>
-</ul>
-<h1>Software Requirements</h1>
-<ul>
-  <li>Programming Language: Python, MySQL</li>
-  <li>Developer Tools: PyCharm</li>
-</ul>
-<h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+---
+
+## 🏗️ Project File Structure
+
+```plaintext
+E-Attendance/
+│── images/                      # Folder for storing student images
+│   ├── Aditya/                  # Student folder (name-based)
+│   │   ├── img1.jpg
+│   │   ├── img2.jpg
+│   ├── Vishal/                  
+│       ├── img1.jpg
+│       ├── img2.jpg
+│
+│── models/                       # Stores trained encodings
+│   ├── encodings.pickle
+│
+│── database/                     # Database connection file
+│   ├── db_connection.py
+│
+│── train.py                       # Training script
+│── detect.py                      # Face recognition & attendance marking
+│── main.py                        # Main menu script
+│── README.md                      # Project Documentation
